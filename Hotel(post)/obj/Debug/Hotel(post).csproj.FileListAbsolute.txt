@@ -1,0 +1,9 @@
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\bin\Debug\Hotel(post).exe.config
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\bin\Debug\Hotel(post).exe
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\bin\Debug\Hotel(post).pdb
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel(post).csprojResolveAssemblyReference.cache
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel_post_.Properties.Resources.resources
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel(post).csproj.GenerateResource.Cache
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel(post).exe
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel(post).pdb
+c:\users\виталий\documents\visual studio 2015\Projects\Hotel(post)\Hotel(post)\obj\Debug\Hotel_post_.Form1.resources
